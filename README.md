@@ -3,6 +3,8 @@
 - 📱 I’m an Android Engineer with Kotlin
 - 🌱 I’m currently learning about mobile development and software security
 - 😁 It’s a pleasure to have you here. Welcome
+
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
 <div id="d0f9c71e2069dfdd6c7166b982b8556c">
