@@ -5,9 +5,10 @@
 - 😁 It’s a pleasure to have you here. Welcome
 
 
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="d0f9c71e2069dfdd6c7166b982b8556c">
+<div id="c1d7155cf9f63b228ac7055232449f2c">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -24,7 +25,7 @@
             </tr>
             <tr>
                 <td><img src="badges/380259620692.png" width="120px" alt="Desenvolvimento Seguro"></td>
-                <td></td>
+                <td><img src="badges/380259620714.png" width="120px" alt="SSDLC na prática"></td>
                 <td></td>
                 <td></td>
                 <td></td>
